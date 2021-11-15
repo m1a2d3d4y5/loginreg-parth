@@ -1,0 +1,11 @@
+input{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+body{
+    background: linear-gradient(90deg , rgb(152, 243, 228) , rgb(87, 234, 253));
+    color: white;
+}    
+
+
